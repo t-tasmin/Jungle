@@ -3,7 +3,7 @@
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
 ### Main view
-![Main](https://github.com/t-tasmin/Jungle/blob/master/docs/my_cart.jpg)
+![Main](https://github.com/t-tasmin/Jungle/blob/master/docs/main.jpg)
 
 ### Product Details
 ![Details](https://github.com/t-tasmin/Jungle/blob/master/docs/product_details.jpg)
@@ -28,7 +28,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 ![new sale](https://github.com/t-tasmin/Jungle/blob/master/docs/admin_sale.jpg)
 
 ### Registration
-![sign-up]()https://github.com/t-tasmin/Jungle/blob/master/docs/sign_up.jpg
+![sign-up](https://github.com/t-tasmin/Jungle/blob/master/docs/sign_up.jpg)
 
 
 
