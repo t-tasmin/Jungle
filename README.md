@@ -2,15 +2,37 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
-### Main view, with an overview of all products.
+### Main view
 ![Main](https://github.com/t-tasmin/Jungle/blob/master/docs/my_cart.jpg)
 
-## Additional Steps for Apple M1 Machines
+### Product Details
+![Details](https://github.com/t-tasmin/Jungle/blob/master/docs/product_details.jpg)
 
-1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
-1. Install ImageMagick `brew install imagemagick imagemagick@6 --build-from-source`
-2. Remove Gemfile.lock
-3. Replace Gemfile with version provided [here](https://gist.githubusercontent.com/FrancisBourgouin/831795ae12c4704687a0c2496d91a727/raw/ce8e2104f725f43e56650d404169c7b11c33a5c5/Gemfile)
+### Product by Category
+![Product By Category](https://github.com/t-tasmin/Jungle/blob/master/docs/categories.jpg)
+
+### Admin Menu
+![Admin](https://github.com/t-tasmin/Jungle/blob/master/docs/admin.jpg)
+
+### Admin: All Categories
+![Admin - All Categories](https://github.com/t-tasmin/Jungle/blob/master/docs/admin_all_categories.jpg)
+
+### Admin: Addition of a new Category
+![new category](https://github.com/t-tasmin/Jungle/blob/master/docs/admin_new_category.jpg)
+![added category](https://github.com/t-tasmin/Jungle/blob/master/docs/admin_new_category_added.jpg)
+
+### Admin: Addition of a new Product
+![new product](https://github.com/t-tasmin/Jungle/blob/master/docs/admin_new_product.jpg)
+
+### Admin: Addition of a new Sale
+![new sale](https://github.com/t-tasmin/Jungle/blob/master/docs/admin_sale.jpg)
+
+### Registration
+![sign-up]()https://github.com/t-tasmin/Jungle/blob/master/docs/sign_up.jpg
+
+
+
+
 
 ## Setup
 
