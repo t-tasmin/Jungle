@@ -2,6 +2,9 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+### Main view, with an overview of all products.
+![Main](https://github.com/t-tasmin/Jungle/blob/master/docs/my_cart.jpg)
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
