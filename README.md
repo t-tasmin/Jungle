@@ -30,6 +30,15 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 ### Registration
 ![sign-up](https://github.com/t-tasmin/Jungle/blob/master/docs/sign_up.jpg)
 
+### Login
+![lgin](https://github.com/t-tasmin/Jungle/blob/master/docs/login.jpg)
+
+### Cart
+![cart](https://github.com/t-tasmin/Jungle/blob/master/docs/my_cart.jpg)
+
+### Final Order
+![Final Order](https://github.com/t-tasmin/Jungle/blob/master/docs/final_order.jpg)
+
 
 
 
